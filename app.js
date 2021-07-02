@@ -1,4 +1,5 @@
 // our app js
-funcion helloWorld() {
-    alert("hello!")
-}
+
+function helloWorld() {
+    alert("Hi!")
+} 
